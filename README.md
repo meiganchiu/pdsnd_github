@@ -8,7 +8,7 @@ Udacity Bikeshare Project
 
 ### Description
 Describe what your project is about and what it does
-Project to look into bikeshare data using python.
+Project to calculate statistics and build an interactive environment where user chooses data and filter for a dataset to analyze. 
 
 ### Files used
 Include the files used
