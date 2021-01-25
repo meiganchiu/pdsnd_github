@@ -201,6 +201,7 @@ def display_raw_data(df):
             i += 5
 
 def main():
+    '''Run all above functions'''
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
